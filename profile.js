@@ -167,4 +167,4 @@ if (message.content.startsWith("*profile")) { // الامر
 });
 
 
-client.login("token"); //تكون بوتك هنا 
+client.login("NjMxODIyMTA3ODAxNjgxOTIx.XZ8mqA.NA22AiW90KmPzI_tSVUIrek5mkY"); //تكون بوتك هنا 
